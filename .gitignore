@@ -1,0 +1,22 @@
+# Jupyter Notebook checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
+
+# Archives and document backups 
+*.zip
+*.docx
+*.pdf
+
+# Machine learning data and saved models
+*.csv
+*.json
+*.xlsx
+*.pkl
+*.h5
+*.pt
+*.pkl
